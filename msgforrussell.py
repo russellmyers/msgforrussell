@@ -3,6 +3,7 @@ def what_is_russell(adjective):
 
 
 what_is_russell("gay")
+fghdfgh
 
 
 
